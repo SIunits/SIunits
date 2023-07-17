@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Python, Machine Learning and Air Quality Forecast
 - 🌱 I’m currently learning: R, No-Code/Low-Code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/ismail-sulaimon-30536695/
+- 📫 How to reach me: https://www.linkedin.com/in/ismail-sulaimon/
 
 <!---
 SIunits/SIunits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
